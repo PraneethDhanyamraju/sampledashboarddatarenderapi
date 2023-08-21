@@ -20,46 +20,17 @@
     ]
     }
 ],
-"products":[ [
-            {
-            "name":"Super Hoodies",
-            "percentage":"14"
-            },
-            {
-            "name":"Custom Short Pants",
-            "percentage":"31"
-            },
-            {
-            "name":"Basic Tees",
-            "percentage":"15"
-            }
-],      
-   [
+"products":[
     {
-    "name":"Super Sneakers",
-    "percentage":"50"
-    },
+        "product":["Super Hoodies","Custom Short Pants","Basic Tees"],
+         "percentages":[14,31,55]
+    },      
     {
-    "name":" Long Pants",
-    "percentage":"20"
-    },
-    {
-    "name":"Checked Shirts",
-    "percentage":"30"
-    }
-], 
-   [
-    {
-    "name":"Track Pants",
-    "percentage":"25"
-    },
-    {
-    "name":"Sunglasses",
-    "percentage":"30"
-    },
-    {
-    "name":"Sweatshirts ",
-    "percentage":"45"
+     "product": ["Super Sneakers"," Long Pants","Checked Shirts"],
+    "percentages": [50,20,30]
+    }, {
+   "product":"Track Pants","Sunglasses","Sweatshirts",
+    "percentages":[25,30,45]
     }
 ]
       
