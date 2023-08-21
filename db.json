@@ -29,7 +29,7 @@
      "product": ["Super Sneakers"," Long Pants","Checked Shirts"],
     "percentages": [50,20,30]
     }, {
-   "product":"Track Pants","Sunglasses","Sweatshirts",
+   "product":["Track Pants","Sunglasses","Sweatshirts"],
     "percentages":[25,30,45]
     }
 ],
@@ -49,4 +49,3 @@
 
     ]
 }
-    
