@@ -6,51 +6,21 @@
         "totalUsers":"892"
     },
     "activites":[{
-        "guest":{
-        "May-June 2021":{
-            "week1":430,
-            "week2":140,
-            "week3":450,
-            "week4":160
-        },
-        "June-July 2021":{
-            "week1":430,
-            "week2":240,
-            "week3":180,
-            "week4":360
-        },
-        "July-August 2021":{
-            "week1":345,
-            "week2":195,
-            "week3":100,
-            "week4":325
-        }
-    },
-    "user":{
-        "May-June 2021":{
-            "week1":395,
-            "week2":205,
-            "week3":295,
-            "week4":195
-        },
-        "June-July 2021":{
-            "week1":300,
-            "week2":200,
-            "week3":255,
-            "week4":185
-        },
-        "July-August 2021":{
-            "week1":355,
-            "week2":265,
-            "week3":430,
-            "week4":195
-        }
-    }
+        "guest":[
+            [430,140,450,160],
+            [430,240,180,360],
+            [345,195,100,325]
+        ],
+    "user":[
+        [395,205,295,195],
+        [300,200,255,185],
+        [355,265,430,195]
+    ]
     }
 ],
 "products":{
     
-        "May-June 2021":[
+      "product": [
             {
             "name":"Super Hoodies",
             "percentage":"14"
@@ -64,7 +34,7 @@
             "percentage":"15"
             }
 ],      
-    "June-July 2021":[
+   [
     {
     "name":"Super Sneakers",
     "percentage":"50"
@@ -78,7 +48,7 @@
     "percentage":"30"
     }
 ], 
-     "July-August 2021":[
+   [
     {
     "name":"Track Pants",
     "percentage":"25"
