@@ -1,0 +1,111 @@
+{
+    "estimates":{
+        "totalRevenues":"2,129,430",
+        "totalTransactions":"1,520",
+        "totalLikes":"9,721",
+        "totalUsers":"892"
+    },
+    "activites":[{
+        "guest":{
+        "May-June 2021":{
+            "week1":430,
+            "week2":140,
+            "week3":450,
+            "week4":160
+        },
+        "June-July 2021":{
+            "week1":430,
+            "week2":240,
+            "week3":180,
+            "week4":360
+        },
+        "July-August 2021":{
+            "week1":345,
+            "week2":195,
+            "week3":100,
+            "week4":325
+        }
+    },
+    "user":{
+        "May-June 2021":{
+            "week1":395,
+            "week2":205,
+            "week3":295,
+            "week4":195
+        },
+        "June-July 2021":{
+            "week1":300,
+            "week2":200,
+            "week3":255,
+            "week4":185
+        },
+        "July-August 2021":{
+            "week1":355,
+            "week2":265,
+            "week3":430,
+            "week4":195
+        }
+    }
+    }
+],
+"products":{
+    
+        "May-June 2021":[
+            {
+            "name":"Super Hoodies",
+            "percentage":"14"
+            },
+            {
+            "name":"Custom Short Pants",
+            "percentage":"31"
+            },
+            {
+            "name":"Basic Tees",
+            "percentage":"15"
+            }
+],      
+    "June-July 2021":[
+    {
+    "name":"Super Sneakers",
+    "percentage":"50"
+    },
+    {
+    "name":" Long Pants",
+    "percentage":"20"
+    },
+    {
+    "name":"Checked Shirts",
+    "percentage":"30"
+    }
+], 
+     "July-August 2021":[
+    {
+    "name":"Track Pants",
+    "percentage":"25"
+    },
+    {
+    "name":"Sunglasses",
+    "percentage":"30"
+    },
+    {
+    "name":"Sweatshirts ",
+    "percentage":"45"
+    }
+]
+      
+    },
+    "schedules":[
+        {
+            "title":"Meeting suppliers from Kuta Bali",
+            "time":"14:00-15:00",
+            "place":"at Sunset road,Kuta,Bali"
+        },       
+         {
+            "title":"Check operation at Giga Factory 1",
+            "time":"18:00-20:00",
+            "place":"at Central Jakarta"
+        }
+
+    ]
+}
+    
