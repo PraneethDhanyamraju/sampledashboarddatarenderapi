@@ -10,7 +10,9 @@
             [430,140,450,160],
             [430,240,180,360],
             [345,195,100,325]
-        ],
+        ]
+    },
+    {
     "user":[
         [395,205,295,195],
         [300,200,255,185],
@@ -18,9 +20,7 @@
     ]
     }
 ],
-"products":{
-    
-      "product": [
+"products":[ [
             {
             "name":"Super Hoodies",
             "percentage":"14"
@@ -63,7 +63,7 @@
     }
 ]
       
-    },
+],
     "schedules":[
         {
             "title":"Meeting suppliers from Kuta Bali",
